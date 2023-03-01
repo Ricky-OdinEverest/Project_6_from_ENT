@@ -11,15 +11,15 @@ I will test the accuracy of the model using a validation and test dataset, inclu
 
 ## Table of Contents
 
-1. [Data Preparation](https://git.generalassemb.ly/ricky-odineverest/Project_6/blob/main/preprocess_step1.ipynb) : Read and combine data from soures. Group data for EDA and Modeling.
+1. [Data Preparation](https://github.com/Ricky-OdinEverest/Project_6_from_ENT/blob/main/preprocess_step1.ipynb) : Read and combine data from soures. Group data for EDA and Modeling.
 
-2. [Data Preparation 2](https://git.generalassemb.ly/ricky-odineverest/Project_6/blob/main/preprocess_step1.ipynb) create a recorder function to make audio files of my own voice in both high and in quality
+2. [Data Preparation 2](https://github.com/Ricky-OdinEverest/Project_6_from_ENT/blob/main/recorder.ipynb) create a recorder function to make audio files of my own voice in both high and in quality
 
-3. [Data Preparation 3](https://git.generalassemb.ly/ricky-odineverest/Project_6/blob/main/preprocess_step1.ipynb) create a function to modify audio to create more targets for wake word
+3. [Data Preparation 3](https://github.com/Ricky-OdinEverest/Project_6_from_ENT/blob/main/pitch_shifter.ipynb) create a function to modify audio to create more targets for wake word
 
-4. [EDA](https://git.generalassemb.ly/ricky-odineverest/Project_6/blob/main/EDA_FOR_AUDIO_some_cleaning.ipynb) :  Explore data and ensure it's all useable
+4. [EDA](https://github.com/Ricky-OdinEverest/Project_6_from_ENT/blob/main/EDA_FOR_AUDIO_some_cleaning.ipynb) :  Explore data and ensure it's all useable
 
-5. [Models](https://git.generalassemb.ly/ricky-odineverest/Project_6/blob/main/RNN_CNN_for_audiodata.ipynb) :Further data preprocessing. Instantiate and evaluate CNN and RNN models
+5. [Models](https://github.com/Ricky-OdinEverest/Project_6_from_ENT/blob/main/RNN_CNN_for_audiodata.ipynb) :Further data preprocessing. Instantiate and evaluate CNN and RNN models
 
 
 ---
