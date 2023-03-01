@@ -44,8 +44,8 @@ During the exploratory data analysis (EDA) phase, I checked if the audio samples
 The first image below shows the frequncy ranges for the data. I did not discrimate based on frequency but I did end up uniformly sampling all data at 1600HZ in order to lower compute time and create less noise
 
 
-![HZ](https://git.generalassemb.ly/ricky-odineverest/Project_6/blob/main/p6img/download%20(14).png)
-![DB](https://git.generalassemb.ly/ricky-odineverest/Project_6/blob/main/p6img/download%20(15).png)
+![HZ](https://github.com/Ricky-OdinEverest/Project_6_from_ENT/blob/main/imgp6/download%20(14).png)
+![DB](https://github.com/Ricky-OdinEverest/Project_6_from_ENT/blob/main/imgp6/download%20(15).png)
 ---
 
 ## Model Evaluation 
@@ -54,7 +54,7 @@ At first, I developed a set of models that performed well in terms of accuracy d
 
 To fix this I decided to augment the negative dataset with 200 random spoken words of my own voice. This helped to improve the classification of other spoken words, while still maintaining high levels of accuracy during testing and validation. By doing so, the model was able to better differentiate between spoken words that were the wake word and those that were not. Overall, this adjustment proved to be a successful solution to the issue and resulted in improved performance during inference.
 
-![Best Final Model](https://git.generalassemb.ly/ricky-odineverest/Project_6/blob/main/p6img/download%20(26).png)
+![Best Final Model](https://github.com/Ricky-OdinEverest/Project_6_from_ENT/blob/main/imgp6/download%20(26).png)
 
 ---
 ## Conclusions
